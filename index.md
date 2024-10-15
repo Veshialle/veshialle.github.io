@@ -1,17 +1,19 @@
 ---
 layout: default
-title: LightSpeed Contact
+title: Veshialle - The other side
 ---
 
 ## About
-LightSpeed is a lightweight Jekyll theme designed to be privacy-friendly (~~no~~ _very little_ JavaScript), fast, and
-excellent at delivering content.
+This blog is probably a huge hole and a waste of time.
+Let's first point, we need to write more and I have no shame to write down some part of my life
 
 ## About, Further
-This second section demonstrates spacing. CSS is kept to a minimum with minor styling
-for site colours and spacing. prism.js is used for code styling.    
+My main role in this life is being the SOC Manager in the third level of Cyberoo and Co - SOC Coordinator for the first and second level.
+With this role, except for the obvious operational work, me and my team need to support Research&Development team in order to define new features, new detections.
+
+Occasionally I ride my bike for dirty adventures, I play boring video games and I'm a homelabber enthusiast.
+
 <br>
-Here's a new paragraph for you.  
 
 ## Features
 - Pagination
@@ -24,4 +26,4 @@ Here's a new paragraph for you.
 - SEO Plugin
 
 ## Contact
-Email me, [tom@tomjack.ca](mailto:tom@tomjack.ca).
+Email me, [matteo.gruppi@veshialle.xyz](mailto:matteo.gruppi@veshialle.xyz).
