@@ -15,15 +15,6 @@ Occasionally I ride my moto for dirty adventures, I play boring video games and 
 
 <br>
 
-## Features
-- Pagination
-    - Posts
-    - Categories
-- Posts
-- RSS
-- Syntax highlighting
-- Basic Mobile Support
-- SEO Plugin
 
 ## Contact
 Email me, [matteo.gruppi@veshialle.xyz](mailto:matteo.gruppi@veshialle.xyz).
